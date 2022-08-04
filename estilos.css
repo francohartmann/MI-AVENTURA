@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;   
+}
+h1{
+    color: ; 
+    text-align: center;
+}
+.alinear{
+    display: flex;
+    justify-content: center;
+}
+a{
+    display: inline-block;
+    width: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+    border-radius: 10px;
+    margin: 150px 130px;
+    padding: 15px 30px;
+    background-color: black;
+    color: red;
+    text-decoration: none;
+}
+p{
+    background-color: red;
+    font-size: 150%;
+}
+.mar{
+    background: url(img/mar.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}
+#arboles{
+    background: url(img/arboles.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}
+#GM{
+    margin: 150;
+    padding: 10%;
+    background: url(IMG/GM.JPG);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}
+#go{
+    margin: 150;
+    padding: 10%;
+    background: url(IMG/go.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}
+.CL{
+    color: RED;
+}
+img{
+    display: flex;
+    justify-content:center
+    background-color:green;
+    width:1000px;
+    height:400px;
+}
+#fg{
+    margin: 100;
+    padding: 20%;
+    background: url(IMG/fg.JPG);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}
+.bt{
+    text-align: center;
+}
